@@ -249,7 +249,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/LAPRAK/MODUL2/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL2/output/output-soal1.png)
 
 Program ini berfungsi untuk mengelola dua buah matriks berukuran 3x3 (mat1 dan mat2), lalu melakukan serangkaian operasi aritmatika dasar matriks meliputi penjumlahan, pengurangan, dan perkalian dengan bantuan fungsi khusus sebelum mencetak masing-masing hasilnya ke layar.
 
@@ -292,8 +292,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/LAPRAK/MODUL2/output/output-soal2.png)
-
+![Screenshot Output Unguided 2_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL2/output/output-soal2.png)
 Program ini berfungsi untuk mendemonstrasikan teknik perputaran nilai (swapping) pada tiga variabel sekaligus (x, y, dan z) dengan dua metode berbeda, yaitu menggunakan reference dan pointer, guna memperlihatkan bagaimana nilai variabel dapat diubah secara langsung di dalam memori.
 
 ### 3. Menu Interaktif Pengolahan Data Array (Maksimum, Minimum, dan Rata-rata)
@@ -380,11 +379,11 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/LAPRAK/MODUL2/output/output-soal31.png)
+![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL2/output/output-soal31.png)
 
 ##### Output 2
 
-![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/LAPRAK/MODUL2/output/output-soal32.png)
+![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL2/output/output-soal32.png)
 
 Program ini berfungsi sebagai aplikasi menu interaktif berbasis array untuk mengolah sekumpulan data angka, di mana pengguna dapat memilih opsi untuk menampilkan isi array, mencari nilai maksimum, mencari nilai minimum, atau menghitung nilai rata-rata melalui fungsi-fungsi terpisah.
 

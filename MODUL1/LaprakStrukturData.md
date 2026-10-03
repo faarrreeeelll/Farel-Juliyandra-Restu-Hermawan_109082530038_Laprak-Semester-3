@@ -265,7 +265,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/output/output-soal1.png)
+![Screenshot Output Unguided 1_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL1/output/output-soal1.png)
 
 Program ini menerima masukan dua bilangan real (float), lalu secara otomatis menghitung dan menampilkan hasil operasi penjumlahan, pengurangan, perkalian, serta pembagian. Selain itu, program ini dilengkapi dengan validasi kondisi if-else untuk memastikan bilangan pembagi tidak bernilai nol sehingga terhindar dari kesalahan kalkulasi (division by zero).
 
@@ -318,7 +318,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 2_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/output/output-soal2.png)
+![Screenshot Output Unguided 2_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL1/output/output-soal2.png)
 
 Program ini mengolah masukan angka bulat dari rentang $0$ hingga $100$ dan mengonversinya menjadi teks terbilang menggunakan fungsi terbilang(). Logika program ini memecah nilai numerik berdasarkan pemeriksaan kondisi serta operasi pembagian dan sisa bagi (modulus) untuk memetakan kombinasi kata satuan, belasan, puluhan, hingga ratusan.
 
@@ -359,7 +359,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/output/output-soal3.png)
+![Screenshot Output Unguided 3_1](https://github.com/faarrreeeelll/Farel-Juliyandra-Restu-Hermawan_109082530038_Laprak-Semester-3/blob/main/PRAKTIKUM/MODUL1/output/output-soal3.png)
 
 Program ini menerima input sebuah angka $n$ untuk membentuk dan mencetak pola matriks angka simetris berbentuk cermin menggunakan teknik perulangan bersarang (nested loop). Perulangan tersebut mengatur jarak spasi indentasi secara bertingkat, lalu mencetak deret angka menurun ke angka 1 sebelum melanjutkannya kembali dengan deret angka menaik secara vertikal dan horizontal.
 
